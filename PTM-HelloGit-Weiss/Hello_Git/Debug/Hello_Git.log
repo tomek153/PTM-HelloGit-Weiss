@@ -1,0 +1,22 @@
+﻿Build started 2018-03-18 12:57:00.
+     1>Project "c:\Users\robot\documents\visual studio 2010\Projects\Hello_Git\Hello_Git\Hello_Git.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\robot\documents\visual studio 2010\Projects\Hello_Git\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Hello_Git.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HelloGit.cpp
+         HelloGit.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\robot\documents\visual studio 2010\Projects\Hello_Git\Debug\Hello_Git.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Hello_Git.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\robot\documents\visual studio 2010\Projects\Hello_Git\Debug\Hello_Git.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\robot\documents\visual studio 2010\Projects\Hello_Git\Debug\Hello_Git.lib" /MACHINE:X86 Debug\HelloGit.obj
+         Hello_Git.vcxproj -> c:\users\robot\documents\visual studio 2010\Projects\Hello_Git\Debug\Hello_Git.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\robot\documents\visual studio 2010\Projects\Hello_Git\Debug\Hello_Git.exe;#1" /manifest Debug\Hello_Git.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Hello_Git.unsuccessfulbuild".
+         Touching "Debug\Hello_Git.lastbuildstate".
+     1>Done Building Project "c:\Users\robot\documents\visual studio 2010\Projects\Hello_Git\Hello_Git\Hello_Git.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.34
